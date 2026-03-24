@@ -1,6 +1,8 @@
 # Basic Python Programs
 
-## Programs Included
+## Discription
+This repository contains basic programs in python.
+
 - Palindrome Check
 - Prime Number Check
 - Factorial
